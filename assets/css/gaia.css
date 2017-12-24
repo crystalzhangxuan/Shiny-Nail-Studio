@@ -3762,3 +3762,11 @@ body {
   position:relative;
   overflow:hidden;
 }
+
+.contact-wrapper .form-group {
+  text-align: left;
+}
+
+.footer li {
+  text-align: left;
+}
