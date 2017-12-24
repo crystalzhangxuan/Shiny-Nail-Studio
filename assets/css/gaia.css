@@ -54,6 +54,11 @@ body {
 
 h1,
 .h1,
+.content-blog p {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: "Grand Hotel",cursive;
+}
 h2,
 .h2,
 h3,
@@ -67,7 +72,7 @@ h6,
 .content-blog p {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-family: "Zapf Chancery",cursive;
+  font-family: "Cambo", "Times New Roman", serif;
 }
 h1 a,
 .h1 a,
@@ -3754,7 +3759,7 @@ body {
 
 .my-list img {
   width: 100%;
-  margin-top: -25px;
+  margin-top: -50px;
 }
 .img-wrapper {
   height:150px;
