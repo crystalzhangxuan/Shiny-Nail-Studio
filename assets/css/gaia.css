@@ -3746,3 +3746,8 @@ body {
     padding: 0;
   }
 }
+
+.img1 {
+  width: 375px;
+  height: 375px;
+}
