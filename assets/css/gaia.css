@@ -1038,6 +1038,11 @@ a,
   border: none;
 }
 
+.notify-button {
+  margin-top: -24px;
+  margin-left: 8px;
+}
+
 .gradient-image {
   position: relative;
   width: 100%;
